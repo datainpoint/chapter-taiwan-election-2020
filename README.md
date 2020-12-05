@@ -1,2 +1,2 @@
-# chapter-dataframe-wrangling-with-pandas
-Chapter for DataFrame Wrangling with Pandas.
+# chapter-taiwan-election-2020
+Chapter: Taiwan Election 2020.
